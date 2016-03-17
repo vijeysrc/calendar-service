@@ -4,7 +4,7 @@
     "Vijey N <vijeyn@virtusa.com>"
   ],
   "description": "",
-  "main": "",
+  "main": "calendar.service.js",
   "moduleType": [],
   "license": "MIT",
   "homepage": "",
