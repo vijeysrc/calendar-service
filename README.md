@@ -6,7 +6,7 @@
 
 >![alt text](calendar.jpg "Logo Title Text 1")
 
->Sample components that uses this service can be found at (work in progress) - [AngularJs](http://github.com), [ReactJs](http://github.com)
+>Sample components that uses this service can be found at - [AngularJs](/vijeysrc/calendar-service), [ReactJs](http://github.com) (work in progress)
 
 ## Features
 
@@ -16,7 +16,7 @@
 
 3. Has methods to move the window by month or by year.
 
-4. For an AngularJs environment, creates a factory service called CalendarService under the module vj.calendar.service
+4. For an AngularJs environment, it creates a factory service called CalendarService under the module vj.calendar.service
     - To get hold of the service, add the module vj.calendar.service to your app module.
     - ```vm.service = CalendarService.getInstance();```
 
