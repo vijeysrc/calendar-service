@@ -6,7 +6,7 @@
 
 >![alt text](calendar.jpg "Logo Title Text 1")
 
->Sample components that uses this service can be found at - [AngularJs](https://github.com/vijeysrc/calendar-service), [ReactJs](http://github.com) (work in progress)
+>Sample components that uses this service can be found at - [AngularJs](https://github.com/vijeysrc/angular-calendar-component), [ReactJs](http://github.com) (work in progress)
 
 ## Features
 
